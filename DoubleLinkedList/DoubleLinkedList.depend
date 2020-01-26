@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1580013434 source:c:\users\maruf\google drive\programming\cpp_projects\doublelinkedlist\doublelinkedlist.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+	<limits>
+	<vector>
+	<sstream>
+	<numeric>
+	<ctime>
+	<cmath>
+	<stdio.h>
+	"Node.h"
+	"DoubleLinkedList.h"
+
+1580012447 c:\users\maruf\google drive\programming\cpp_projects\doublelinkedlist\node.h
+	<cstdlib>
+	<iostream>
+	<string>
+	<limits>
+	<vector>
+	<sstream>
+	<numeric>
+	<ctime>
+	<cmath>
+	<stdio.h>
+
+1580012901 c:\users\maruf\google drive\programming\cpp_projects\doublelinkedlist\doublelinkedlist.h
+	<cstdlib>
+	<iostream>
+	<string>
+	<limits>
+	<vector>
+	<sstream>
+	<numeric>
+	<ctime>
+	<cmath>
+	<stdio.h>
+	"Node.h"
+
+1580011475 source:c:\users\maruf\google drive\programming\cpp_projects\doublelinkedlist\node.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+	<limits>
+	<vector>
+	<sstream>
+	<numeric>
+	<ctime>
+	<cmath>
+	<stdio.h>
+	"Node.h"
+
+1580009323 source:c:\users\maruf\google drive\programming\cpp_projects\doublelinkedlist\test_doublelinkedlist.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+	<stdio.h>
+	"DoubleLinkedList.h"
+
