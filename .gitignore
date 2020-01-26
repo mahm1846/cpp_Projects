@@ -1,7 +1,0 @@
-# Git ignore
-*.exe
-*.o
-bin/*
-obj/*
-*/bin/*
-*/obj/*
