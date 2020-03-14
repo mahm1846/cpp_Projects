@@ -22,5 +22,4 @@ int main (){
            cout<<(long) ( frac2* (double) ten);
      else
            cout<<(long) ( frac3* (double) ten );
-
 }
